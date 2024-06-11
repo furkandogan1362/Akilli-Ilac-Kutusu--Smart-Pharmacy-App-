@@ -66,7 +66,25 @@ You've successfully run and modified your React Native App. :partying_face:
 
 # Troubleshooting
 
-If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
+Uygulamamızın amacı yaşlı ve unutkan insanların ilaçlarını hatırlatmaktır.
+
+<div>
+
+  <img src="https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/e6c1e851-7419-4b81-b1ca-ccfeadb0c305" alt="" width="120" align="left">
+
+  <img src="https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/5598e879-7b8b-4643-9812-5d414e9562b1" alt="" width="120" align="left">
+
+  <img src="https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/3602f787-de12-40a9-bff2-dd3759926646" alt="" align="left" width="120">
+
+  <img src="https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/7e4931e7-5aad-491e-a641-2ef88bd931cd" alt="" align="left" width="120">
+
+  <img src="https://github.com/ibrahimcancayan/Smart-Pharmacy-App/assets/128325154/9f1712b9-4fda-44e0-a445-9ec140fcee9a" alt="" align="left" width="120">
+
+  <br clear="all">
+
+</div>
+
+Kullanıcı uygulamaya açtığında giriş ekranı ile karşılaşır. Eğer bir hesabı var ise uygulamaya giriş yapabilir yok ise altta bulunan hesap oluştur tuşuna basarak kendisine hesap oluşturabilir. Kulanaıcı uygulamayı açtığında sadece altta ilaç ekle kısmı ile karşılaşır buradan ilaç ekle tuşuna basarak kendisi ilacın adını, başlangıçını, bitişini, dozajını ve tipini girip sisteme ilacını sokabilir. Altta bulunan profil tuşuna basarak profil kısmına ulaşabilir. Burada iletişim bilgilerini ve toplam kaç ilaca sahip olduğunu görebilir.
 
 # Learn More
 
